@@ -1,3 +1,7 @@
+#EXPLANATION:
+#we set the backend remotely into the terraform cloud platform, but we also define that 
+# our resources are gonna be provided by aws
+
 terraform {
   backend "remote" {
     organization = "Personal-Organization923847"

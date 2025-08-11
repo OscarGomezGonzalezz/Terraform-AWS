@@ -1,3 +1,5 @@
+#EXPLANATION:
+# deploy a aws resource from a terraform config file
 terraform {
   required_providers {
     aws = {
