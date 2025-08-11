@@ -18,3 +18,6 @@ terraform apply
 ```
 terraform destroy
 ```
+### 5º In case you are deploying some resources in the terraform cloud:
+Create an account, an organization, and a workspace. Then check all your runs [here](
+https://app.terraform.io/app/Personal-Organization923847/workspaces/introduction/runs)
